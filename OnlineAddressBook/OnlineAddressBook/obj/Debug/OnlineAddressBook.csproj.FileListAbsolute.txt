@@ -1,0 +1,34 @@
+D:\dotnet exercises\asp exercises\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.dll
+D:\dotnet exercises\asp exercises\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.pdb
+D:\dotnet exercises\asp exercises\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.csprojResolveAssemblyReference.cache
+D:\dotnet exercises\asp exercises\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.dll
+D:\dotnet exercises\asp exercises\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.pdb
+C:\Users\Vijay\Desktop\vamshi\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.dll.config
+C:\Users\Vijay\Desktop\vamshi\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.dll
+C:\Users\Vijay\Desktop\vamshi\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.pdb
+C:\Users\Vijay\Desktop\vamshi\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.csprojResolveAssemblyReference.cache
+C:\Users\Vijay\Desktop\vamshi\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.dll
+C:\Users\Vijay\Desktop\vamshi\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.pdb
+C:\Users\Vijay\Desktop\UN\vamshi\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.dll.config
+C:\Users\Vijay\Desktop\UN\vamshi\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.dll
+C:\Users\Vijay\Desktop\UN\vamshi\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.pdb
+C:\Users\Vijay\Desktop\UN\vamshi\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.csprojResolveAssemblyReference.cache
+C:\Users\Vijay\Desktop\UN\vamshi\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.dll
+C:\Users\Vijay\Desktop\UN\vamshi\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.pdb
+C:\Users\Vijay\Desktop\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.dll.config
+C:\Users\Vijay\Desktop\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.dll
+C:\Users\Vijay\Desktop\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.pdb
+C:\Users\Vijay\Desktop\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.csprojResolveAssemblyReference.cache
+C:\Users\Vijay\Desktop\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.dll
+C:\Users\Vijay\Desktop\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.pdb
+C:\Users\RenukaPrasad\Downloads\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.dll
+C:\Users\RenukaPrasad\Downloads\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.pdb
+C:\Users\RenukaPrasad\Downloads\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.csprojResolveAssemblyReference.cache
+C:\Users\RenukaPrasad\Downloads\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.dll
+C:\Users\RenukaPrasad\Downloads\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.pdb
+C:\Users\NIKHIL4228\Desktop\Projects\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.dll.config
+C:\Users\NIKHIL4228\Desktop\Projects\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.dll
+C:\Users\NIKHIL4228\Desktop\Projects\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\bin\OnlineAddressBook.pdb
+C:\Users\NIKHIL4228\Desktop\Projects\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.csprojResolveAssemblyReference.cache
+C:\Users\NIKHIL4228\Desktop\Projects\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.dll
+C:\Users\NIKHIL4228\Desktop\Projects\OnlineAddressBook\OnlineAddressBook\OnlineAddressBook\obj\Debug\OnlineAddressBook.pdb

@@ -1,0 +1,36 @@
+﻿.tit {
+    font-family: 'Cosmic';
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    color: grey;
+}
+.lab {
+    font-family: 'Century Gothic';
+    font-size: x-large;
+    font-weight: bold;
+    color: #FF9900;
+    text-align:right;
+}
+.but {
+    font-family: Cosmic;
+    font-size: x-large;
+    color: #FF9900;
+    background-color: #808080;
+}
+.lin {
+    color: #3333FF;
+    font-size: large;
+    font-weight: normal;
+    font-style: inherit;
+}
+
+#main {
+    background-color:#CCFF99;
+    height:800px;
+}
+
+.Label1 {
+        text-align:center;
+}
+
